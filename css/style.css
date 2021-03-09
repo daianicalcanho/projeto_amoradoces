@@ -1,6 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
-
 body {
 display: flex;
 flex-direction: center;
@@ -119,7 +116,7 @@ float: left;
 position: relative;
 left: 1.7%;
 width: 450px;
-height: 400px;
+height: 425px;
 border: solid 1px #ccc;
 border-radius: 5px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -307,9 +304,8 @@ background-color:#662a74;
 margin-left: 1%;
 padding:10px 0 10px 0;
 position:absolute;
-margin-top: 3% ;
+margin-top:5% ;
 left: 13%;
-margin-bottom: 5%;
 }
 
 .logorodape{
@@ -976,3 +972,6 @@ margin-top: 3% ;
 left: 3%;
 bottom: 15%;
 }
+
+
+
