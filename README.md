@@ -1,2 +1,6 @@
-# projeto_amoradoces
-projeto integrador curso TI senac Site de uma confeitaria utilizando HTML CSS 
+# Projeto Site Amora Doces
+Projeto integrador Site de uma confeitaria desenvolvido no curso de TI do Senac 
+
+## Tecnologias
+- HTML
+- CSS
